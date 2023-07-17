@@ -1,1 +1,1 @@
-# sample-project# CRUD
+# BASIC PYTHON CODE AND EXECUTION
